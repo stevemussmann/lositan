@@ -14,6 +14,7 @@ To install, clone this repository and cd into the lositan directory. Execute the
 
 ## Running the program
 Execute the runLocal.sh script to run Lositan. You will likely see a bunch of warnings printed to your terminal window, but the program ran fine for me.
+
 `./runLocal.sh`
 
 #### Content below this line comes from the original README file.
