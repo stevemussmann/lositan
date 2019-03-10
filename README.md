@@ -17,7 +17,8 @@ Execute the runLocal.sh script to run Lositan. You will likely see a bunch of wa
 
 `./runLocal.sh`
 
-#### Content below this line comes from the original README file.
+
+## Content below this line comes from the original README file.
 Lositan/Mcheza
 
 Selection detection workbenches
