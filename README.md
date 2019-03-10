@@ -7,7 +7,9 @@ I successfully performed the installation on a computer running Ubuntu 14.04 LTS
 
 To install, clone this repository and cd into the lositan directory. Execute the installation scripts in the following order:
 `./getLibs.sh`
+
 `./prepareLibs.sh`
+
 `./prepareLocalExec.sh`
 
 ## Running the program
